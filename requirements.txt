@@ -1,0 +1,7 @@
+
+chromadb
+openai
+langchain
+pypdf
+sqlite3
+
